@@ -1,5 +1,5 @@
 
-# H2 Instructions
+Instructions
 ==================
 
 Design and Implement a mock real-time trading UI to showcase reactive programming principles across the full application stack.
@@ -25,5 +25,6 @@ _other allowed 3rd party library_
 
 
 Example should look like this. Send your completed work to ann.chou@crypto.com
+
 ![alt text](https://github.com/anncdc/TradingUI_Assignment/blob/main/Screen%20Shot%202021-03-03%20at%205.12.23%20PM.png "Example_UI")
 

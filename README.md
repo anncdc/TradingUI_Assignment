@@ -23,7 +23,8 @@ _other allowed 3rd party library_
 - ag grid - https://www.ag-grid.com/
 - trading view - https://www.tradingview.com/
 
+
+
 Example should look like this
 ===============
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text] (https://raw.githubusercontent.com/anncdc/TradingUI_Assignment/main/Screen%20Shot%202021-03-03%20at%205.12.23%20PM.png "Example_UI")
